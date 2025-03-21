@@ -23,20 +23,20 @@ const Index = () => {
       description: 'Frontend development certifications from Coursera, showcasing expertise in modern web technologies.',
       certificates: [
         {
-          title: 'Frontend Web Development with React',
+          title: 'Introduction to Software Engineering',
           issuer: 'Coursera',
-          date: 'April 2023',
-          image: placeholders.coursera,
+          date: 'August 2024',
+          image: '/coursera.svg',
           fileType: 'pdf',
-          fileUrl: '#'
+          fileUrl: '/coursera9.pdf'
         },
         {
-          title: 'JavaScript: Modern Techniques',
+          title: 'Front-Ends with Bootstrap',
           issuer: 'Coursera',
-          date: 'March 2023',
-          image: placeholders.coursera,
+          date: 'August 2024',
+          image: '/coursera.svg',
           fileType: 'pdf',
-          fileUrl: '#'
+          fileUrl: '/coursera7.pdf'
         }
       ]
     },
@@ -48,16 +48,16 @@ const Index = () => {
         {
           title: 'MERN Stack Development',
           issuer: 'Prashant Jain',
-          date: 'June 2023',
-          image: placeholders.mernDsa,
+          date: 'January 2025',
+          image: '/Mern.png',
           fileType: 'image',
           fileUrl: '#'
         },
         {
           title: 'Data Structures & Algorithms',
           issuer: 'Prashant Jain',
-          date: 'May 2023',
-          image: placeholders.mernDsa,
+          date: 'December 2024',
+          image: '/Dsa.png',
           fileType: 'image',
           fileUrl: '#'
         }
@@ -71,26 +71,26 @@ const Index = () => {
         {
           title: 'Frontend Interview Preparation',
           issuer: 'RoadsideCoder',
-          date: 'August 2023',
-          image: placeholders.roadsideCoder,
+          date: 'March 2025',
+          image: '/roadsidecoder.png',
           fileType: 'pdf',
-          fileUrl: '#'
+          fileUrl: '/Frontend1.pdf'
         },
         {
-          title: 'JavaScript Certification',
+          title: 'Frontend Developer (React)',
           issuer: 'HackerRank',
-          date: 'September 2023',
-          image: placeholders.hackerrank,
+          date: 'August 2024',
+          image: '/hackerrank.png',
           fileType: 'pdf',
-          fileUrl: '#'
+          fileUrl: '/hackerrank1.pdf'
         },
         {
           title: 'Android App Car with Metal Detector',
           issuer: 'Final Year Thesis',
-          date: 'December 2023',
-          image: placeholders.thesis,
+          date: 'May 2023',
+          image: '/thesis.jpg',
           fileType: 'pdf',
-          fileUrl: '#'
+          fileUrl: '/College Final Year Project.pdf'
         }
       ]
     }
